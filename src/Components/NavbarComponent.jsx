@@ -48,7 +48,7 @@ export const NavbarComponent = () => {
         className="p-1 font-normal"
       >
         <a href="#" className="flex items-center">
-          Blocks
+          Page3
         </a>
       </Link>
       <Link
@@ -58,7 +58,7 @@ export const NavbarComponent = () => {
         className="p-1 font-normal"
       >
         <a href="#" className="flex items-center">
-          Docs
+          Page4
         </a>
       </Link>
     </ul>

@@ -44,7 +44,7 @@ import {
                       color="gray"
                       className="flex items-center font-normal"
                     >
-                      I agree the
+                      I agree to the
                       <a
                         href="#"
                         className="font-medium transition-colors hover:text-gray-900"

@@ -5,7 +5,7 @@ export default withMT({
   theme: {
     colors: {
       'green': '#0E4C00',
-      'black': '#3F3F3F',
+      'black': '#000000',
     },
     extend: {},
   },

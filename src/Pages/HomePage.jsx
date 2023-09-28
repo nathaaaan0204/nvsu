@@ -5,6 +5,7 @@ export const HomePage = () => {
   return (
     <>
     <NavbarComponent/>
+    Hello
     </>
   )
 }

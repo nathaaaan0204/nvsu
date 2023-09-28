@@ -63,7 +63,7 @@ export const LoginPage = () => {
             molestiae voluptas optio veniam odit quos.Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
             nostrum libero commodi ullam eius temporibus, quod suscipit
             accusantium facere cumque consectetur animi autem voluptatibus
-            molestiae voluptas optio veniam odit quos.
+            molestiae voluptas optio veniam s.
           </Typography>
           <Button className="bg-light-green-200 text-green">
           <Link to="/">Learn More</Link>
